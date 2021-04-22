@@ -1,0 +1,416 @@
+@media (min-width: 1920px) {
+  .course-wrapper-area .dots {
+    right: 225px;
+  }
+  .about-wrapper-area .triangle {
+    left: 340px;
+  }
+  .solution-wrapper .deco1 {
+    left: 27%;
+  }
+  .service-wrapper-area .oshape {
+    left: 17%;
+  }
+  .service-wrapper-area .color {
+    left: 14%;
+  }
+  .leader-wrapper-area .circle {
+    right: 16%;
+  }
+}
+
+@media (max-width: 1199px) {
+  .portfolio-wrapper-area .portfolio-inner H4 {
+    font-size: 16px;
+  }
+  .portfolio-inner p {
+    font-size: 15px;
+  }
+  .team-wrapper-area .team-wrap .single-team h3 {
+    font-size: 22px;
+  }
+  .trainning-wrapper-area .trainning-wrap .trainning-title h2 {
+    font-size: 29px;
+  }
+  .footer-area .single-footer-widget .footer-contact-info li a {
+    font-size: 15px;
+  }
+  .service-wrapper-area .service-wrap .service-box .service-content p {
+    font-size: 16px;
+  }
+  .nav-wrapper .custom-nav .custom-navbar .nav-item {
+    margin: 0 0px;
+  }
+  .banner-wrapper-area .banner-bottom {
+    top: 95%;
+    width: 922px;
+  }
+  .banner-wrapper-area .banner-bottom .mail .mail-description p {
+    font-size: 12px;
+  }
+  .banner-wrapper-area .banner-bottom .mail .mail-description h4 {
+    font-size: 19px;
+  }
+  .about-wrapper-area .about-feature .feature-content p {
+    font-size: 12px;
+  }
+  .service-wrapper-area .service-wrap .service-box .service-content h4 {
+    font-size: 24px;
+  }
+  .leader-wrapper-area .leader-wrap .leader-speech p {
+    font-size: 15px;
+  }
+  .leader-wrapper-area .leader-wrap .leader-speech h4 {
+    font-size: 18px;
+  }
+  .single-footer-widget img {
+    width: 50%;
+  }
+  .course-wrapper-area h3 {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 991px) {
+  .project-area label {
+    font-size: 14px;
+  }
+  .portfolio-inner p {
+    font-size: 12px;
+  }
+  .portfolio-wrapper-area .nav-tabs li {
+    margin-left: 5px;
+  }
+  .team-wrapper-area {
+    padding: 80px 0px 50px 0px;
+  }
+  .trainning-wrapper-area {
+    padding: 80px 0px 20px 0px;
+  }
+  .trainning-wrapper-area .trainning-wrap .trainning-title {
+    margin-bottom: 20px;
+  }
+  .funfacts-area {
+    padding: 100px 0px 20px 0px;
+  }
+  .funfacts-area .funfact {
+    margin-bottom: 50px;
+  }
+  .trainning-wrapper-area::before {
+    display: none;
+  }
+  .plan-area-wrapper .about-content-image {
+    margin-top: 0;
+  }
+  .banner-wrapper-area .banner-wrap .image {
+    margin-top: 85px;
+  }
+  .area::before {
+    height: 212vh;
+  }
+  .counselling-wrapper .counseling-form {
+    margin-bottom: 20px;
+  }
+  .banner-wrapper-area .banner-bottom {
+    height: 290px;
+    width: 600px;
+  }
+  .top-info-column {
+    text-align: center;
+  }
+  .nav-wrapper .header-top-area .top-social-icon-column {
+    text-align: center;
+  }
+  .solution-wrapper .solution-wrap .solution-content h2 {
+    font-size: 35px;
+  }
+  .solution-wrapper .solution-wrap .content p {
+    font-size: 14px;
+  }
+  .about-wrapper-area .about-content h2 {
+    font-size: 35px;
+  }
+  .course-wrapper-area h2 {
+    font-size: 35px;
+  }
+  .counselling-wrapper h3 {
+    font-size: 35px;
+  }
+  .service-wrapper-area .service-wrap .title h2 {
+    font-size: 35px;
+  }
+  .leader-wrapper-area .leader-wrap .leader-title h2 {
+    font-size: 35px;
+  }
+  .leader-wrapper-area .circle {
+    display: none;
+  }
+  .leader-wrapper-area .leader-wrap .leader-speech p {
+    font-size: 10px;
+  }
+  .leader-wrapper-area .leader-wrap .leader-speech h4 {
+    font-size: 15px;
+  }
+  .footer-area .footer-bottom-area p {
+    font-size: 15px;
+  }
+  .service-wrapper-area .color {
+    display: none;
+  }
+  .service-wrapper-area .oshape {
+    display: none;
+  }
+  .course-wrapper-area .dots {
+    display: none;
+  }
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  .navbar-light .navbar-toggler {
+    border: 3px solid #0077b6;
+  }
+}
+
+@media (max-width: 767px) {
+  .project-area .project-type .field.clearfix {
+    display: inline-block;
+    margin-left: 0px;
+  }
+  .project-title h2 {
+    font-size: 24px;
+  }
+  .course-wrapper-area .seat .admission {
+    left: 15px;
+    top: 20px;
+    margin-bottom: 50px;
+  }
+  .course-wrapper-area .seat {
+    display: block;
+  }
+  .premium-wrapper-area {
+    padding: 80px 0px 50px 0px;
+  }
+  .course-wrapper-area .gd-left h4 {
+    margin-top: 20px;
+  }
+  .portfolio-wrapper-area .nav-tabs {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .portfolio-wrapper-area .nav-tabs li {
+    margin-bottom: 10px;
+  }
+  .area::before {
+    height: 172vh;
+  }
+  .banner-wrapper-area .banner-bottom {
+    display: none;
+  }
+  .solution-wrapper .solution-wrap .box-content .box-area h4 {
+    font-size: 20px;
+  }
+  .default {
+    padding: 12px 40px;
+  }
+  .solution-wrapper .solution-wrap .box-content .box-area p {
+    font-size: 12px;
+  }
+  .banner-wrapper-area .banner-wrap .banner-content h1 {
+    font-size: 35px;
+  }
+  .about-wrapper-area {
+    padding: 70px 0px 0px 0px;
+  }
+  .about-content {
+    margin-top: 20px;
+  }
+  .course-wrapper-area {
+    padding: 70px 0px 0px 0px;
+  }
+  .counselling-wrapper {
+    padding: 70px 0px 0px 0px;
+  }
+  .service-wrapper-area .service-wrap .service-box .service-content h4 {
+    font-size: 20px;
+  }
+  .service-wrapper-area .service-wrap .service-box .service-content p {
+    font-size: 11px;
+  }
+  .leader-wrapper-area {
+    padding: 70px 0px 100px 0px;
+  }
+  .leader-wrapper-area .leader-wrap .leader-speech {
+    text-align: center;
+  }
+  .leader-wrapper-area .leader-wrap .leader-content-area .leader-image {
+    position: relative;
+    left: 50%;
+  }
+  .leader-wrapper-area .leader-wrap .leader-content-area {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .footer-area .footer-bottom-area ul {
+    text-align: center;
+  }
+  .footer-area .footer-bottom-area p {
+    text-align: center;
+  }
+  .footer-area .footer-bottom-area ul li a {
+    font-size: 15px;
+  }
+  .solution-wrapper {
+    margin-top: 0;
+  }
+  .solution-wrapper .solution-wrap .content {
+    margin: 40px auto 0 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .contact-side-box h4 {
+    font-size: 20px;
+  }
+  .contact-form h4 {
+    font-size: 15px;
+  }
+  .contact-title h2 {
+    font-size: 15px;
+  }
+  .default {
+    font-size: 17px;
+  }
+  .project-title h2 {
+    font-size: 20px;
+  }
+  .mfp-iframe-holder .mfp-content {
+    height: 500px;
+  }
+  .procedure-wrapper-area .tab-pane h3 {
+    font-size: 24px;
+  }
+  .admission-form-wrapper .form-box h3 {
+    font-size: 17px;
+  }
+  .project-wrapper-area .project-information h2 {
+    font-size: 25px;
+  }
+  .service-content-area .service-area .service-content {
+    padding-left: 0;
+  }
+  .trainning-wrapper-area .trainning-wrap .trainning-title h2 {
+    font-size: 18px;
+  }
+  .team-wrapper-area .team-wrap .team-title p {
+    font-size: 15px;
+  }
+  .team-wrapper-area {
+    padding: 50px 0px 50px 0px;
+  }
+  .testimonial-wrapper-area {
+    padding: 50px 0px 50px 0px;
+  }
+  .plan-area-wrapper {
+    padding: 50px 0px 0px 0px;
+  }
+  .leader-wrapper-area .leader-wrap .leader-speech p {
+    font-size: 12px;
+  }
+  .counselling-wrapper h3 {
+    font-size: 25px;
+  }
+  .fixed-top {
+    padding: 15px;
+  }
+  .nav-wrapper .custom-nav {
+    width: 100%;
+  }
+  .nav-wrapper .custom-nav .logo {
+    width: 75%;
+  }
+  .area::before {
+    display: none;
+  }
+  .leader-wrapper-area .leader-wrap .leader-content-area .leader-image {
+    position: relative;
+    left: auto;
+  }
+  .counselling-wrapper {
+    padding: 50px 0px 0px 0px;
+  }
+  .banner-wrapper-area .banner-wrap .banner-content .btn-default {
+    display: block;
+  }
+  .banner-wrapper-area .banner-wrap .banner-content h1 {
+    font-size: 30px;
+  }
+  .banner-wrapper-area .banner-wrap .banner-content p {
+    font-size: 16px;
+  }
+  .button-two {
+    margin-top: 45px;
+  }
+  .banner-wrapper-area .banner-wrap .banner-content .btn-default .default-one {
+    margin-left: 0;
+  }
+  .solution-wrapper .solution-wrap .solution-content h2 {
+    font-size: 25px;
+  }
+  .solution-wrapper .solution-wrap .content p {
+    font-size: 12px;
+  }
+  .about-wrapper-area .about-content h2 {
+    font-size: 25px;
+  }
+  .about-wrapper-area .about-content p {
+    font-size: 12px;
+  }
+  .course-wrapper-area h2 {
+    font-size: 25px;
+  }
+  .course-wrapper-area p {
+    font-size: 12px;
+    margin-bottom: 30px;
+  }
+  .banner-wrapper-area {
+    overflow: hidden;
+  }
+  .solution-wrapper .it-up-service-shape {
+    display: none;
+  }
+  .service-wrapper-area .service-wrap .title h2 {
+    font-size: 25px;
+  }
+  .service-wrapper-area .service-wrap .title p {
+    font-size: 12px;
+  }
+  .leader-wrapper-area .leader-wrap .leader-title h2 {
+    font-size: 23px;
+  }
+  .leader-wrapper-area .leader-wrap .leader-title p {
+    font-size: 12px;
+  }
+  .footer-area p {
+    font-size: 12px;
+  }
+  .footer-area .single-footer-widget .footer-links-list li a {
+    font-size: 12px;
+  }
+  .footer-area .single-footer-widget .footer-contact-info li a {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 376px) {
+  .procedure-wrapper-area .nav-tabs .nav-link {
+    margin-bottom: 10px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
